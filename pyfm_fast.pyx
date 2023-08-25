@@ -2,6 +2,7 @@
 # cython: cdivision=True
 # cython: boundscheck=False
 # cython: wraparound=False
+# cython: language_level=2
 #
 # Author: Corey Lynch <coreylynch9@gmail.com>
 #
